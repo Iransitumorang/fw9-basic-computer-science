@@ -1,0 +1,7 @@
+Menghitung Luas & keliling Lingkaran :
+- Mulai 
+- Menentukan jumlah jari-hari
+- Memasukkan Rumus
+- Melakukan perhitungan
+- Mendapatkan hasil
+- Done

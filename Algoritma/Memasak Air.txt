@@ -1,0 +1,11 @@
+Algoritma Memasak Air :
+- Mulai
+- Mengecek Gas dan memastikan masih berisi
+- Menyiapkan wadah (panci atau sejenisnya)
+- Mengisi Air ke dalam wadah secukupnya
+- Menaruh diatas kompor
+- Menghidupkan kompor
+- Menunggu hingga mendidih
+- Setelah mendidih matikan kompor
+- Memindahkan panci ke tempat yg tepat
+- Done

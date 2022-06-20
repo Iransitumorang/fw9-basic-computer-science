@@ -1,0 +1,10 @@
+Algoritma Mengganti Isi Gelas :
+- Mulai
+- Menyiapkan Gelas yg akan di ganti isinya
+- Menyiapkan wadah kosong untuk transit
+- Menuangkan teh kedalam wadah yg  kosong (transit)
+- Membersihkan gelas bekasnya
+- Menuangkan kopi ke gelas bekas tempat teh
+- Membersihkan gelas bekasnya
+- Menuangkan Teh ke bekas tempat Kopi
+- Done

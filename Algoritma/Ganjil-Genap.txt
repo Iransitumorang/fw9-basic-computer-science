@@ -1,0 +1,8 @@
+Menetukan Nilai Ganjil Genap :
+- Mulai
+- Masukkan Nilai X
+- Jika Nilai X habis di bagi 2 = Bilangan Genap
+- Jika tidak habis = Bilangan Ganjil
+- Jika Nilai Y habis di bagi 2 = Bilangan Genap
+- Jika tidak habis = Bilangan Ganjil
+- Done

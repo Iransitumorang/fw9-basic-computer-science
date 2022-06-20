@@ -1,0 +1,8 @@
+Menentukan Nilai Terbesar :
+- Mulai
+- Memasukan Nilai X
+- Memasukkan Nilai Y
+- Membuat rumus jika Nilai X > Y = Nilai X yg terbesar 
+- Jika Nilai X < Y = Nilai Y yg terbesar
+- Else
+- Error
